@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { queryTVMazeAPI } from './Util'
 
 class SearchContainer extends Component {
     render() {

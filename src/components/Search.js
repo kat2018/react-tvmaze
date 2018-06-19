@@ -5,6 +5,7 @@ class Search extends Component {
         return (
             <div>
                 <form action="get" method="get"></form>
+                <button></button>
             </div>
         );
     }
