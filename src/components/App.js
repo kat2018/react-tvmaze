@@ -10,10 +10,24 @@ class App extends Component {
         <Home />
         <Search />
         <hr />
-        <Results />
+        <Results 
+        />
       </div>
     );
   }
 }
 
 export default App
+
+//Interactive stuff list: 
+
+//Search
+  //URL for movies
+  //Click events for Search
+
+//List of movie results
+  //for each individualResult
+  //URL for movie
+  //Movie name
+  //click event for search again 
+    //on click, it will change the view
