@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class Search extends Component {
     render() {
         return (
             <div>
-                <h1>Search Page</h1>
+                <form action="get" method="get"></form>
             </div>
         );
     }
 }
 
-export default Search;
+export default Search
